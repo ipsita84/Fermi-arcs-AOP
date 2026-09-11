@@ -265,45 +265,15 @@
   {journal} {\bibinfo  {journal} {Solid State Communications}\ }\textbf
   {\bibinfo {volume} {397}},\ \bibinfo {pages} {115799} (\bibinfo {year}
   {2025})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {{Mandal}}(2025)}]{ips-exact-rsw}%
+\bibitem [{\citenamefont {{Mandal}}(2026)}]{ips-exact-rsw}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.}~\bibnamefont
   {{Mandal}}},\ }\bibfield  {title} {\bibinfo {title} {{Distinguishing features
   of longitudinal magnetoconductivity for a Rarita-Schwinger-Weyl node}},\
-  }\href {https://arxiv.org/abs/2506.12380} {\bibfield  {journal} {\bibinfo
-  {journal} {arXiv e-prints}\ } (\bibinfo {year} {2025})},\ \Eprint
-  {https://arxiv.org/abs/2506.12380} {arXiv:2506.12380 [cond-mat.mes-hall]}
-  \BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Xiao}\ \emph {et~al.}(2010)\citenamefont {Xiao},
-  \citenamefont {Chang},\ and\ \citenamefont {Niu}}]{xiao_review}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
-  {Xiao}}, \bibinfo {author} {\bibfnamefont {M.-C.}\ \bibnamefont {Chang}},\
-  and\ \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont {Niu}},\ }\bibfield
-  {title} {\bibinfo {title} {Berry phase effects on electronic properties},\
-  }\href {https://doi.org/10.1103/RevModPhys.82.1959} {\bibfield  {journal}
-  {\bibinfo  {journal} {Rev. Mod. Phys.}\ }\textbf {\bibinfo {volume} {82}},\
-  \bibinfo {pages} {1959} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Sundaram}\ and\ \citenamefont
-  {Niu}(1999)}]{sundaram99_wavepacket}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
-  {Sundaram}}\ and\ \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont {Niu}},\
-  }\bibfield  {title} {\bibinfo {title} {{Wave-packet dynamics in slowly
-  perturbed crystals: Gradient corrections and Berry-phase effects}},\ }\href
-  {https://doi.org/10.1103/PhysRevB.59.14915} {\bibfield  {journal} {\bibinfo
-  {journal} {Phys. Rev. B}\ }\textbf {\bibinfo {volume} {59}},\ \bibinfo
-  {pages} {14915} (\bibinfo {year} {1999})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Graf}\ and\ \citenamefont
-  {Pi\'echon}(2021)}]{graf-Nband}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
-  {Graf}}\ and\ \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
-  {Pi\'echon}},\ }\bibfield  {title} {\bibinfo {title} {{Berry curvature and
-  quantum metric in $N$-band systems: An eigenprojector approach}},\ }\href
-  {https://doi.org/10.1103/PhysRevB.104.085114} {\bibfield  {journal} {\bibinfo
-   {journal} {Phys. Rev. B}\ }\textbf {\bibinfo {volume} {104}},\ \bibinfo
-  {pages} {085114} (\bibinfo {year} {2021})}\BibitemShut {NoStop}%
+  }\href {https://doi.org/10.1007/s10909-026-03452-1} {\bibfield  {journal}
+  {\bibinfo  {journal} {Journal of Low Temperature Physics}\ }\textbf {\bibinfo
+  {volume} {222}},\ \bibinfo {pages} {120} (\bibinfo {year}
+  {2026})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Zhuang}\ \emph {et~al.}(2024)\citenamefont {Zhuang},
   \citenamefont {Zhang}, \citenamefont {Wang},\ and\ \citenamefont
   {Yan}}]{twoband-dipole}%
@@ -768,12 +738,13 @@
   {https://doi.org/10.1038/s41586-019-1037-2} {\bibfield  {journal} {\bibinfo
   {journal} {Nature}\ }\textbf {\bibinfo {volume} {567}},\ \bibinfo {pages}
   {500–505} (\bibinfo {year} {2019})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Takane}\ \emph {et~al.}(2019)\citenamefont {Takane},
-  \citenamefont {Wang}, \citenamefont {Souma}, \citenamefont {Nakayama},
-  \citenamefont {Nakamura}, \citenamefont {Oinuma}, \citenamefont {Nakata},
-  \citenamefont {Iwasawa}, \citenamefont {Cacho}, \citenamefont {Kim},
-  \citenamefont {Horiba}, \citenamefont {Kumigashira}, \citenamefont
-  {Takahashi}, \citenamefont {Ando},\ and\ \citenamefont {Sato}}]{spin1-arc}%
+\bibitem [{\citenamefont {Takane}\ \emph
+  {et~al.}(2019{\natexlab{a}})\citenamefont {Takane}, \citenamefont {Wang},
+  \citenamefont {Souma}, \citenamefont {Nakayama}, \citenamefont {Nakamura},
+  \citenamefont {Oinuma}, \citenamefont {Nakata}, \citenamefont {Iwasawa},
+  \citenamefont {Cacho}, \citenamefont {Kim}, \citenamefont {Horiba},
+  \citenamefont {Kumigashira}, \citenamefont {Takahashi}, \citenamefont
+  {Ando},\ and\ \citenamefont {Sato}}]{spin1-arc}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
   {Takane}}, \bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont {Wang}},
@@ -793,7 +764,8 @@
   associated {F}ermi-arc surface states in {C}o{S}i},\ }\href
   {https://doi.org/10.1103/PhysRevLett.122.076402} {\bibfield  {journal}
   {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo {volume} {122}},\
-  \bibinfo {pages} {076402} (\bibinfo {year} {2019})}\BibitemShut {NoStop}%
+  \bibinfo {pages} {076402} (\bibinfo {year} {2019}{\natexlab{a}})}\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Schröter}\ \emph {et~al.}(2020)\citenamefont
   {Schröter}, \citenamefont {Stolz}, \citenamefont {Manna}, \citenamefont
   {de~Juan}, \citenamefont {Vergniory}, \citenamefont {Krieger}, \citenamefont
@@ -852,6 +824,27 @@
   {https://doi.org/10.1038/s41467-020-15865-x} {\bibfield  {journal} {\bibinfo
   {journal} {Nature Communications}\ }\textbf {\bibinfo {volume} {11}},\
   \bibinfo {pages} {2033} (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Chang}\ \emph {et~al.}(2017)\citenamefont {Chang},
+  \citenamefont {Xu}, \citenamefont {Wieder}, \citenamefont {Sanchez},
+  \citenamefont {Huang}, \citenamefont {Belopolski}, \citenamefont {Chang},
+  \citenamefont {Zhang}, \citenamefont {Bansil}, \citenamefont {Lin},\ and\
+  \citenamefont {Hasan}}]{multifold-rhsi}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Chang}}, \bibinfo {author} {\bibfnamefont {S.-Y.}\ \bibnamefont {Xu}},
+  \bibinfo {author} {\bibfnamefont {B.~J.}\ \bibnamefont {Wieder}}, \bibinfo
+  {author} {\bibfnamefont {D.~S.}\ \bibnamefont {Sanchez}}, \bibinfo {author}
+  {\bibfnamefont {S.-M.}\ \bibnamefont {Huang}}, \bibinfo {author}
+  {\bibfnamefont {I.}~\bibnamefont {Belopolski}}, \bibinfo {author}
+  {\bibfnamefont {T.-R.}\ \bibnamefont {Chang}}, \bibinfo {author}
+  {\bibfnamefont {S.}~\bibnamefont {Zhang}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Bansil}}, \bibinfo {author} {\bibfnamefont
+  {H.}~\bibnamefont {Lin}},\ and\ \bibinfo {author} {\bibfnamefont {M.~Z.}\
+  \bibnamefont {Hasan}},\ }\bibfield  {title} {\bibinfo {title}
+  {{Unconventional chiral fermions and large topological Fermi arcs in RhSi}},\
+  }\href {https://doi.org/10.1103/PhysRevLett.119.206401} {\bibfield  {journal}
+  {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo {volume} {119}},\
+  \bibinfo {pages} {206401} (\bibinfo {year} {2017})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Xiao}\ \emph {et~al.}(2023)\citenamefont {Xiao},
   \citenamefont {Jin}, \citenamefont {Ma}, \citenamefont {Kong}, \citenamefont
   {Fan}, \citenamefont {Wang},\ and\ \citenamefont {Wu}}]{quad-weyl-arc}%
@@ -969,6 +962,23 @@
   {https://doi.org/10.1103/PhysRevLett.119.266402} {\bibfield  {journal}
   {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo {volume} {119}},\
   \bibinfo {pages} {266402} (\bibinfo {year} {2017})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Volovik}(2003)}]{volovik-book}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.~E.}\ \bibnamefont
+  {Volovik}},\ }\href@noop {} {\emph {\bibinfo {title} {The Universe in a
+  Helium Droplet}}},\ \bibinfo {series} {International Series of Monographs on
+  Physics}, Vol.\ \bibinfo {volume} {117}\ (\bibinfo  {publisher} {Oxford
+  University Press},\ \bibinfo {address} {Oxford, UK},\ \bibinfo {year}
+  {2003})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {{Mandal}}(2026)}]{ips-nonlin-dipole}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {I.}~\bibnamefont
+  {{Mandal}}},\ }\bibfield  {title} {\bibinfo {title} {{Unconventional
+  magnetoelectric conductivity and electrochemical response from dipole-like
+  sources of Berry curvature}},\ }\href {https://arxiv.org/abs/2602.08844}
+  {\bibfield  {journal} {\bibinfo  {journal} {arXiv e-prints}\ } (\bibinfo
+  {year} {2026})},\ \Eprint {https://arxiv.org/abs/2602.08844}
+  {arXiv:2602.08844 [cond-mat.mes-hall]} \BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Zhu}\ \emph {et~al.}(2016)\citenamefont {Zhu},
   \citenamefont {Winkler}, \citenamefont {Wu}, \citenamefont {Li},\ and\
   \citenamefont {Soluyanov}}]{spin13d1}%
@@ -1049,27 +1059,6 @@
   {journal} {Journal of Physics: Condensed Matter}\ }\textbf {\bibinfo {volume}
   {37}},\ \bibinfo {pages} {405002} (\bibinfo {year} {2025})}\BibitemShut
   {NoStop}%
-\bibitem [{\citenamefont {Chang}\ \emph {et~al.}(2017)\citenamefont {Chang},
-  \citenamefont {Xu}, \citenamefont {Wieder}, \citenamefont {Sanchez},
-  \citenamefont {Huang}, \citenamefont {Belopolski}, \citenamefont {Chang},
-  \citenamefont {Zhang}, \citenamefont {Bansil}, \citenamefont {Lin},\ and\
-  \citenamefont {Hasan}}]{multifold-rhsi}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
-  {Chang}}, \bibinfo {author} {\bibfnamefont {S.-Y.}\ \bibnamefont {Xu}},
-  \bibinfo {author} {\bibfnamefont {B.~J.}\ \bibnamefont {Wieder}}, \bibinfo
-  {author} {\bibfnamefont {D.~S.}\ \bibnamefont {Sanchez}}, \bibinfo {author}
-  {\bibfnamefont {S.-M.}\ \bibnamefont {Huang}}, \bibinfo {author}
-  {\bibfnamefont {I.}~\bibnamefont {Belopolski}}, \bibinfo {author}
-  {\bibfnamefont {T.-R.}\ \bibnamefont {Chang}}, \bibinfo {author}
-  {\bibfnamefont {S.}~\bibnamefont {Zhang}}, \bibinfo {author} {\bibfnamefont
-  {A.}~\bibnamefont {Bansil}}, \bibinfo {author} {\bibfnamefont
-  {H.}~\bibnamefont {Lin}},\ and\ \bibinfo {author} {\bibfnamefont {M.~Z.}\
-  \bibnamefont {Hasan}},\ }\bibfield  {title} {\bibinfo {title}
-  {{Unconventional chiral fermions and large topological Fermi arcs in RhSi}},\
-  }\href {https://doi.org/10.1103/PhysRevLett.119.206401} {\bibfield  {journal}
-  {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo {volume} {119}},\
-  \bibinfo {pages} {206401} (\bibinfo {year} {2017})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Xu}\ \emph {et~al.}(2011)\citenamefont {Xu},
   \citenamefont {Weng}, \citenamefont {Wang}, \citenamefont {Dai},\ and\
   \citenamefont {Fang}}]{Gang2011}%
@@ -1142,21 +1131,6 @@
   {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev. X}\ }\textbf {\bibinfo
   {volume} {7}},\ \bibinfo {pages} {021019} (\bibinfo {year}
   {2017})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Mo}\ \emph {et~al.}(2025)\citenamefont {Mo},
-  \citenamefont {Zheng}, \citenamefont {Lu}, \citenamefont {Huang},
-  \citenamefont {Liu},\ and\ \citenamefont {Zhang}}]{dipole-helical-arc}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont
-  {Mo}}, \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Zheng}}, \bibinfo
-  {author} {\bibfnamefont {C.}~\bibnamefont {Lu}}, \bibinfo {author}
-  {\bibfnamefont {X.}~\bibnamefont {Huang}}, \bibinfo {author} {\bibfnamefont
-  {Z.}~\bibnamefont {Liu}},\ and\ \bibinfo {author} {\bibfnamefont
-  {S.}~\bibnamefont {Zhang}},\ }\bibfield  {title} {\bibinfo {title}
-  {Observation of oriented {L}andau levels and helical zero modes in {B}erry
-  dipole acoustic crystals},\ }\href
-  {https://doi.org/10.1103/PhysRevLett.134.116604} {\bibfield  {journal}
-  {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo {volume} {134}},\
-  \bibinfo {pages} {116604} (\bibinfo {year} {2025})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Zhang}\ \emph {et~al.}(2020)\citenamefont {Zhang},
   \citenamefont {Takahashi}, \citenamefont {Fang},\ and\ \citenamefont
   {Murakami}}]{charge4-1}%
@@ -1210,6 +1184,65 @@
   {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev. Res.}\ }\textbf
   {\bibinfo {volume} {6}},\ \bibinfo {pages} {013048} (\bibinfo {year}
   {2024})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Takane}\ \emph
+  {et~al.}(2019{\natexlab{b}})\citenamefont {Takane}, \citenamefont {Wang},
+  \citenamefont {Souma}, \citenamefont {Nakayama}, \citenamefont {Nakamura},
+  \citenamefont {Oinuma}, \citenamefont {Nakata}, \citenamefont {Iwasawa},
+  \citenamefont {Cacho}, \citenamefont {Kim}, \citenamefont {Horiba},
+  \citenamefont {Kumigashira}, \citenamefont {Takahashi}, \citenamefont
+  {Ando},\ and\ \citenamefont {Sato}}]{takane2019_observation}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
+  {Takane}}, \bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont {Wang}},
+  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Souma}}, \bibinfo
+  {author} {\bibfnamefont {K.}~\bibnamefont {Nakayama}}, \bibinfo {author}
+  {\bibfnamefont {T.}~\bibnamefont {Nakamura}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Oinuma}}, \bibinfo {author} {\bibfnamefont
+  {Y.}~\bibnamefont {Nakata}}, \bibinfo {author} {\bibfnamefont
+  {H.}~\bibnamefont {Iwasawa}}, \bibinfo {author} {\bibfnamefont
+  {C.}~\bibnamefont {Cacho}}, \bibinfo {author} {\bibfnamefont
+  {T.}~\bibnamefont {Kim}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {Horiba}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Kumigashira}},
+  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Takahashi}}, \bibinfo
+  {author} {\bibfnamefont {Y.}~\bibnamefont {Ando}},\ and\ \bibinfo {author}
+  {\bibfnamefont {T.}~\bibnamefont {Sato}},\ }\bibfield  {title} {\bibinfo
+  {title} {Observation of chiral fermions with a large topological charge and
+  associated fermi-arc surface states in cosi},\ }\href
+  {https://doi.org/10.1103/PhysRevLett.122.076402} {\bibfield  {journal}
+  {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo {volume} {122}},\
+  \bibinfo {pages} {076402} (\bibinfo {year} {2019}{\natexlab{b}})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {{Yao}}\ \emph {et~al.}(2020)\citenamefont {{Yao}},
+  \citenamefont {{Manna}}, \citenamefont {{Yang}}, \citenamefont {{Fedorov}},
+  \citenamefont {{Voroshnin}}, \citenamefont {{Valentin Schwarze}},
+  \citenamefont {{Hornung}}, \citenamefont {{Chattopadhyay}}, \citenamefont
+  {{Sun}}, \citenamefont {{Guin}}, \citenamefont {{Wosnitza}}, \citenamefont
+  {{Borrmann}}, \citenamefont {{Shekhar}}, \citenamefont {{Kumar}},
+  \citenamefont {{Fink}}, \citenamefont {{Sun}},\ and\ \citenamefont
+  {{Felser}}}]{mengyu}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {{Yao}}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {{Manna}}},
+  \bibinfo {author} {\bibfnamefont {Q.}~\bibnamefont {{Yang}}}, \bibinfo
+  {author} {\bibfnamefont {A.}~\bibnamefont {{Fedorov}}}, \bibinfo {author}
+  {\bibfnamefont {V.}~\bibnamefont {{Voroshnin}}}, \bibinfo {author}
+  {\bibfnamefont {B.}~\bibnamefont {{Valentin Schwarze}}}, \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {{Hornung}}}, \bibinfo {author}
+  {\bibfnamefont {S.}~\bibnamefont {{Chattopadhyay}}}, \bibinfo {author}
+  {\bibfnamefont {Z.}~\bibnamefont {{Sun}}}, \bibinfo {author} {\bibfnamefont
+  {S.~N.}\ \bibnamefont {{Guin}}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {{Wosnitza}}}, \bibinfo {author} {\bibfnamefont
+  {H.}~\bibnamefont {{Borrmann}}}, \bibinfo {author} {\bibfnamefont
+  {C.}~\bibnamefont {{Shekhar}}}, \bibinfo {author} {\bibfnamefont
+  {N.}~\bibnamefont {{Kumar}}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {{Fink}}}, \bibinfo {author} {\bibfnamefont
+  {Y.}~\bibnamefont {{Sun}}},\ and\ \bibinfo {author} {\bibfnamefont
+  {C.}~\bibnamefont {{Felser}}},\ }\bibfield  {title} {\bibinfo {title}
+  {{Observation of giant spin-split Fermi-arc with maximal Chern number in the
+  chiral topological semimetal PtGa}},\ }\href
+  {https://doi.org/10.1038/s41467-020-15865-x} {\bibfield  {journal} {\bibinfo
+  {journal} {Nature Communications}\ }\textbf {\bibinfo {volume} {11}},\
+  \bibinfo {eid} {2033} (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {{Potter}}\ \emph {et~al.}(2014)\citenamefont
   {{Potter}}, \citenamefont {{Kimchi}},\ and\ \citenamefont
   {{Vishwanath}}}]{qtm-osc-ashvin}%
